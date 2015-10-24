@@ -28,11 +28,6 @@ Go dev!
 ------------------------------
 
 
-git add readme.md
-
-git commit -m "ajout texte de présentation"
-
-git push origin master
 
 
 
